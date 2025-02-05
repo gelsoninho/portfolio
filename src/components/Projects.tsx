@@ -14,10 +14,10 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: "Bot de Trading Crypto",
-    description: "Bot de trading automatisé utilisant des stratégies SMA/RSI pour le trading de cryptomonnaies. Intègre un système de backtesting pour valider les stratégies.",
+    title: "Bot de Trading Crypto Telegram",
+    description: "Bot de trading crypto utilisant des stratégies de tracking de wallet & copy-trading. Projet toujours en phase de développement.",
     image: "https://t3.ftcdn.net/jpg/03/10/46/56/360_F_310465670_Wy4QCEfxYU2ziHjbeZsNAumKhaZzZS1w.jpg",
-    technologies: ["Python", "Pandas", "FastAPI", "Docker"],
+    technologies: ["Python", "Pandas", "FastAPI", "Linux", "Flask"],
     githubUrl: "https://github.com/gelsoninho/crypto-trading-bot",
     icon: Bot
   },
