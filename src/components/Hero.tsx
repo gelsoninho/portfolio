@@ -106,7 +106,7 @@ export const Hero = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
           >
-            <span className="solana-gradient">Gelson</span>, Développeur Web Python Autodidacte & Architecte d'IA
+            <span className="solana-gradient">Gelson</span>, Développeur Web & Python Junior Autodidacte
           </motion.h1>
           
           <motion.p
