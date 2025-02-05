@@ -87,7 +87,7 @@ export const Expertise = () => {
       title: "Automatisation",
       description: "Création de bots et scripts d'automatisation intelligents",
       skills: ["Python", "Selenium", "BeautifulSoup", "FastAPI", "Docker"],
-      caseStudy: "Bot de trading crypto avec backtesting de stratégies SMA/RSI"
+      caseStudy: "Bot de copy-trading crypto avec diverses stratégies sur Telegram"
     }
   ];
 
