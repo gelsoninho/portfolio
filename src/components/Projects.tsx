@@ -23,7 +23,7 @@ const projects: Project[] = [
   },
   {
     title: "Testnet Node Operator",
-    description: "Opérateur de nœud sur le testnet Solana, participant activement à la validation des transactions et au maintien de la sécurité du réseau. Configuration et maintenance de l'infrastructure pour assurer une haute disponibilité.",
+    description: "Opérateur de nœud sur le testnet de Celestia, Lava Network, Berachain ainsi que Shardeum et participant activement à la validation des transactions et au maintien de la sécurité du réseau. Configuration et maintenance de l'infrastructure pour assurer une haute disponibilité.",
     image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
     technologies: ["Solana", "Linux", "Monitoring", "DevOps"],
     icon: Bot
