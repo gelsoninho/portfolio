@@ -79,14 +79,14 @@ export const Expertise = () => {
       icon: BlockchainIcon,
       title: "Blockchain",
       description: "Exploration et développement de solutions blockchain",
-      skills: ["Solidity", "Web3.py", "Smart Contracts", "Solana", "DeFi"],
+      skills: ["Ethereum", "Solidity", "Web3.py", "Smart Contracts", "Solana", "DeFi", "Linux", "Docker"],
       caseStudy: "Déploiement de nodes blockchain en testnet et développement de smart contracts"
     },
     {
       icon: Bot,
       title: "Automatisation",
       description: "Création de bots et scripts d'automatisation intelligents",
-      skills: ["Python", "Selenium", "BeautifulSoup", "FastAPI", "Docker"],
+      skills: ["Python", "Selenium", "BeautifulSoup", "FastAPI", "Linux"],
       caseStudy: "Bot de copy-trading crypto avec diverses stratégies sur Telegram"
     }
   ];
